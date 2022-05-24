@@ -23,7 +23,7 @@ img{
 .box{
     height: 200px;
     width: 200px;
-    border: 1px solid black;
+    border: 3px dotted red;
     margin-top: 20px;
 }
 @media(max-width: 1000px){
@@ -51,4 +51,4 @@ img{
 		width: 350px;
 		flex-wrap: wrap;
 	}
-}n 
+}
